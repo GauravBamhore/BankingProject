@@ -1,4 +1,4 @@
-package POMClasses;
+package KitePOM;
 import java.io.IOException;
 import java.time.Duration;
 
